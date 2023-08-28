@@ -1,6 +1,7 @@
 # demo
 
-A new Flutter project.
+Favorite Word Pairs Demo
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first#3
 
 ## Getting Started
 
